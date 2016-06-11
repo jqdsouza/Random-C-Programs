@@ -1,5 +1,5 @@
 # Random-C-Programs
-Variousprograms I created to develop my proficiency with C++.
+Various programs I created to develop my proficiency with C++.
 
 <b>Num-bits: </b><br>
 This program takes as input a positive integer, and outputs the fewest number of bits it takes to represent that integer in binary. For example, on input 12, the output is "12 can be represented using 4 bits."<br>
